@@ -1,4 +1,4 @@
-##Functionality
+## Functionality
 
 - 🧠Control: 2x Arduino Unos, USB cables 2x, Breadboard, Jumper Wires.
 - 🤖XY gantry: 2x NEMA 17 stepper motors connected to 2x TMC2209 stepper drivers spinning GT2 belt pulley to convert motor rotation to linear motion. (See example:https://www.youtube.com/watch?v=yElA7GaP7SQ)
@@ -10,7 +10,7 @@
 - Frame: Either wood, acrylic or aluminum to hold board flat, keep rails aligned and minimize vibrations.
 
   
-##Using 2 Arduino Unos
+## Using 2 Arduino Unos
 
 Decided to use 2 Arduino Unos:
 - One for controlling the motors which control the pieces.
