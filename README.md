@@ -1,2 +1,14 @@
-# arduino-autonomous-chessboard
-🤖 An autonomous, self-moving chessboard powered by Arduino Uno and motors for remote controlled gameplay.
+# Autonomous Chessboard
+
+## Goal
+
+Build a chessboard that automatically moves chess pieces with a remote controller using an Arduino Uno.
+
+## Features
+
+## Current Status
+
+Planning
+
+## Progress
+- [ ] 
