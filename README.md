@@ -2,7 +2,7 @@
 
 ## Goal
 
-Build a chessboard that automatically moves chess pieces with a remote controller using an Arduino Uno.
+Build a chessboard that automatically moves chess pieces with a remote controller using an ESP32.
 
 ## Features
 
