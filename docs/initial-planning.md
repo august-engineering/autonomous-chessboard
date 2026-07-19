@@ -8,6 +8,7 @@
 - Linear Motion System: Metal linear rails with sliding block for XY gantry precision.
 - Limit Switches: Buttons on edges to prevent crashing the motors into the frame.
 - Frame: Either wood, acrylic or aluminum to hold board flat, keep rails aligned and minimize vibrations.
+- Voice Recognition: Mobile app using react native voice recognition
 
   
 
